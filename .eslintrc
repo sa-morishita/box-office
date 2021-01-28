@@ -14,7 +14,7 @@
   "parser": "babel-eslint",
   "rules": {
     "no-unused-vars":["warn"],
-    "arrow-body-style":["warn"],
+    "arrow-body-style":["none"],
     "no-plusplus": [
       0
     ],
